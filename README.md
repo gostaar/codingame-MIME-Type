@@ -8,7 +8,7 @@ Une table qui associe un type MIME avec une extension de fichier vous est fourni
 L'extension d'un fichier se définit par la partie du nom qui se trouve après le dernier point qui le compose.
 Si l'extension du fichier est présente dans la table d'association (la casse ne compte pas. ex : TXT est équivalent à txt), alors affichez le type MIME correspondant . S'il n'est pas possible de trouver le type MIME associé à un fichier, ou si le fichier n'a pas d'extensions, affichez UNKNOWN.
 <h1>Entrées du jeu</h1>
-<h2>Entrée<h2>
+<h2>Entrée</h2>
 Ligne 1: Nombre N d’éléments composant la table d'association. 
 
 Ligne 2 : Nombre Q de noms de fichiers à analyser.
