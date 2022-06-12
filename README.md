@@ -27,7 +27,7 @@ Les type MIME sont composés d'un maximum de 50 caractères ascii alphanumériqu
 Les noms de fichiers sont composés d'un maximum de 256 caractères ascii alphanumériques et points.
 Il n'y a pas d'espaces dans les noms de fichiers, les extensions et les types MIME.
 <h2>Exemple</h2>
-Entrée
+<h3>Entrée</h3>
 2
 4
 html text/html
@@ -36,7 +36,7 @@ test.html
 noextension
 portrait.png
 doc.TXT
-Sortie
+<h3>Sortie</h3>
 text/html
 UNKNOWN
 image/png
